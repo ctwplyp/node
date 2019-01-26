@@ -1,0 +1,27 @@
+{
+  "name": "@ctwplyp/node",
+  "version": "1.0.1",
+  "description": "Playing with modules",
+  "main": "index.js",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2",
+    "npm": "^6.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctwplyp/node.git"
+  },
+  "author": "Sean Laing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ctwplyp/node/issues"
+  },
+  "homepage": "https://github.com/ctwplyp/node#readme",
+  "keywords": [
+    "node"
+  ]
+}
